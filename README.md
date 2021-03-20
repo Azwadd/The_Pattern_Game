@@ -4,7 +4,7 @@
 
 Submitted by: Azwad Shameem
 
-Time spent: 2 hours spent in total
+Time spent: 1 hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com...)
 
