@@ -4,7 +4,7 @@
 
 Submitted by: Azwad Shameem
 
-Time spent: 1 hours spent in total
+Time spent: 2 hours spent in total
 
 Link to project: https://ebony-breezy-ambert.glitch.me
 
@@ -38,7 +38,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='The_Pattern_Game.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src"https://cdn.glitch.com/f858283d-8614-4c96-a178-cf3214614a72%2FThe_Pattern_Game.gif?v=1616536325802"></img>
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
