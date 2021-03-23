@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src"https://cdn.glitch.com/f858283d-8614-4c96-a178-cf3214614a72%2FThe_Pattern_Game.gif?v=1616536325802"></img>
+<img src"The_Pattern_Game.gif"></img>
 
 
 ## Reflection Questions
