@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src"The_Pattern_Game.gif"></img>
+<img src='The_Pattern_Game.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Reflection Questions
